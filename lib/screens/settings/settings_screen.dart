@@ -52,7 +52,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   children: [
                     ActionButtonWidget(
                         onTap: () {
-                          Share.share('Check out The Pharaons Ancient Gold');
+                          Share.share('Check out The Pharaohs Ancient Gold');
                         },
                         verticalPadding: 12,
                         horizontalPadding: 45,
